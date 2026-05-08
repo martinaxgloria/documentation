@@ -9,7 +9,9 @@ Il presente Capitolo descrive la procedura di cablaggio dei cavi delle spalle e 
 
 ## 1	Cable Construction
 
-<center>![ICUB_SHOULDER_cables_all](img/shoulder/ICUB_SHOULDER_cables_all.png)</center>
+<figure markdown="span">
+  ![ICUB_SHOULDER_cables_all](img/shoulder/ICUB_SHOULDER_cables_all.png)
+</figure>
 <center> 1  : length 272 mm - Diam. 1.5/1.75</center>
 <center> 2  : length 256 mm - Diam. 1.5/1.75</center>
 <center> 3  : length 279 mm - Diam. 1.5/1.75 </center>
@@ -20,8 +22,6 @@ Il presente Capitolo descrive la procedura di cablaggio dei cavi delle spalle e 
 <center> 8  : length 121 mm -  Diam. 1.2/1.50</center>
 <center> 9  : length 110 mm - Diam. 1.2/1.50</center>
 <center> 10: length 154 mm - Diam. 1.2/1.50</center>
-
-
 
 > Cables from 1 to 6 are RC_IIT_019_G_00X - X from 1 to 6 - each made of U7191517 (IITCODE 2390) with different lengths (see the list above) and 2 crimps RC_TLR_003_P_101 (IITCODE 3492). The assembly resulting cable can be purchased from with IITCODE from 4758 to 4763.
 <!-- 
@@ -68,7 +68,7 @@ La sequenza del  cablaggio dei cavi spalla è la seguente:   Cavo n. (1-2) - (3-
 
 ## 2	Left Shoulder
 
-<img src='../img/shoulder/ICUB_SHOULDER_LEFT.png' width = 95%>
+<img src ='../img/shoulder/ICUB_SHOULDER_LEFT.png' width = 80%>
 
 
 !!! note "Rules for a good start"
@@ -87,14 +87,11 @@ La sequenza del  cablaggio dei cavi spalla è la seguente:   Cavo n. (1-2) - (3-
 
 ### 2.1	Left Shoulder Rotation Cable 1 and 2
 
-
-
 If you have to repair cable 1 and/or cable 2, it is convenient to first:
 
 1. Remove the chest cover (follow [this procedure](waist_legs.md#21-chest-back-and-back-pack-covers-dismounting)) in order to have better access to the pulleys
 2. Loose also the cables 5-6-7-8 in order to easily turn the pulleys of cables 1&2 and thus tension them
 3. Tension cables 1 and 2, attach the other cables and finally tension them
-
 
 
 In order to access the tensioners of cables 1 and 2, you have to remove the small metal cover on both pulleys, as shown below, by unscrewing the M2x5 screw holding them:
@@ -104,14 +101,11 @@ In order to access the tensioners of cables 1 and 2, you have to remove the smal
 | <img src ='../img/shoulder/cable1_2.png' height=400px width = auto> | <img src ='../img/shoulder/cable1_2_blue.png' height=400px width = auto> |
 
 
-
 Let's see the cabling of tendons 1 & 2 in detail:
 
 
 
 ![ICUB_SHOULDER_LEFT](./img/shoulder/ICUB_SHOULDER_LEFT_Cable_1.png)
-
-
 
 
 
@@ -126,10 +120,13 @@ Let's see the cabling of tendons 1 & 2 in detail:
 Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccola   RC_TLR_003_P_037 posizionare il copri cavo in abs (plastica) ovvero il   pezzo  IIT_003_P_006_00 SX
 -->
 
-!!! Danger
+!!! danger
+
     You need to remove both tensioners of cable 2 and 3 in order to change one of them - meaning re-cabling pairs (1-2) and (3-4)
 
-<center><img src='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_2.png' width=90%></center> 
+<figure markdown="span">
+  ![ICUB_SHOULDER_LEFT_Cable_2](img/shoulder/ICUB_SHOULDER_LEFT_Cable_2.png)
+</figure>
 
 > Route cable N2 as per the diagram above.
 > 
@@ -147,18 +144,18 @@ Make sure you face the crimps as shown below before tensioning, in order to have
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src ='../img/shoulder/cable1_2_1.png' height=400px width = auto> | <img src ='../img/shoulder/cable1_2_pulley.png' height=400px width = auto> |
 
-
-
 ### 2.2	Left Shoulder Elevation Cable 3 and 4
 
 <center><img src ='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_3.png' width = 85%></center>
+
 > As per cable N1, just route cable N3 following the diagram above and prevent the crimp from escaping by adding the left cover crimp (IITCODE : 1895)
 
 <!--
 Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccola   RC_TLR_003_P_037 posizionare il copri cavo in abs (plastica) ovvero il   pezzo  IIT_003_P_006_00 SX
 -->
 
-<center><img src='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_4.png'  width=85%></center>
+<center><img src ='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_4.png'  width=85%></center>
+
 > Route cable N4 as per the diagram above.
 > 
 > Now you can tense both screws for tension cable 3 and 4
@@ -169,6 +166,7 @@ Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccol
 ### <u>IMPORTANT NOTES</u> for Cable from 8 to 5
 
 !!! danger "From cable 8 to 5"
+
     **To mount the cables 8 - 7 - 6 - 5, it is important to start with all of them already disconnected. You   first need to replace the broken cable(s) by starting to enter the head crimp   (4mm size – smaller one or ball crimp) of the cable 7 and 8 inside their respective   tensioner. You will need later to start wiring cable 7 and 8 in their future   path BUT to do so it is necessary to create SPACE FOR THE CRIMPS TO PASS.**
     
     **There are 2 designs for the   shoulder so it is necessary to see the difference in between both of them to know how to untighten the good pieces and screws to create that SPACE**
@@ -191,7 +189,7 @@ Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccol
 
 <center><img src ='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_8.png'  width="95%"></center>
 
-<center><img src='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_7.png' width="90%" height="auto"></center>
+<center><img src ='../img/shoulder/ICUB_SHOULDER_LEFT_Cable_7.png' width="90%" height="auto"></center>
 
 
 
@@ -213,7 +211,7 @@ In order to insert these cables, you need to turn the 2 pulleys and align the te
 
 > Those 2 cables are not specifically difficult to route but unfortunately you need to operate cautiously to do NOT damage the electronical boards located beneath the upper arm.
 
-<img src='../img/shoulder/ICUB_ELBOW_LEFT.png' width = 80%>
+<img src ='../img/shoulder/ICUB_ELBOW_LEFT.png' width = 80%>
 
 !!! warning
 
@@ -224,6 +222,7 @@ In order to insert these cables, you need to turn the 2 pulleys and align the te
 <center>![ICUB_ELBOW](img/shoulder/ICUB_Elbow_LEFT_Cable_9-10.png)</center> 
 
 !!! tip "Rules of routing"
+
     1. Remove the lower part of the upper arm cover if  NOT done yet
         2. Remove the lateral plate (the **ONE** with **NO** sensor) by unmounting the 2 screws holding it.
         3. Turn the main shaft by the help of a screw driver to apply enough torque to make it spin, until you reach the same situation as the pictures above (this is the view from **below** of the elbow)
@@ -231,9 +230,6 @@ In order to insert these cables, you need to turn the 2 pulleys and align the te
         5. Pass both heads of crimp before reattaching the Lateral Plate.
         6. Position the head of crimp in their socket
         7. start tightening the screws of both tensioner.
-
-
-
 
 
 ## 4	Right Shoulder
@@ -250,7 +246,7 @@ Consiglio
 La sequenza del  cablaggio dei cavi spalla è la seguente:   Cavo n. (1-2) - (3-4) - (8-7) - (6-5)
 -->
 
-<img src='../img/shoulder/ICUB_SHOULDER_RIGHT.png' height=500px width = auto>
+<img src ='../img/shoulder/ICUB_SHOULDER_RIGHT.png' height=500px width = auto>
 
 
 !!! note "Rules for a good start"
@@ -270,7 +266,6 @@ La sequenza del  cablaggio dei cavi spalla è la seguente:   Cavo n. (1-2) - (3-
 ### 4.1	Right Shoulder Rotation Cable 1 and 2
 
 
-
 If you have to repair cable 1 and/or cable 2, it is convenient to first:
 
 1. Remove the chest cover (follow [this procedure](waist_legs.md#21-chest-back-and-back-pack-covers-dismounting)) in order to have better access to the pulleys
@@ -278,14 +273,11 @@ If you have to repair cable 1 and/or cable 2, it is convenient to first:
 3. Tension cables 1 and 2, attach the other cables and finally tension them
 
 
-
 In order to access the tensioners of cables 1 and 2, you have to remove the small metal cover on both pulleys, as shown below, by unscrewing the M2x5 screw holding them:
 
 |                       Tensioner cover                        |                       Tensioner cover                        |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src ='../img/shoulder/cable1_2.png' height=300px width = auto> | <img src ='../img/shoulder/cable1_2_blue.png' height=300px width = auto> |
-
-
 
 Let's see the cabling of tendons 1 & 2 in detail:
 
@@ -303,8 +295,8 @@ Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccol
 -->
 
 !!! Danger
-    You need to remove both tensioner of cable 2 and 3 in order to change one of them - meaning re-cabling pairs (1-2) and (3-4)
 
+    You need to remove both tensioner of cable 2 and 3 in order to change one of them - meaning re-cabling pairs (1-2) and (3-4)
 
 
 ![ICUB-SHOULDER](./img/shoulder/ICUB_SHOULDER_RIGHT_Cable_2.png) 
@@ -321,12 +313,9 @@ Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccol
 Make sure you face the crimps as shown below before tensioning, in order to have access to them. The down pulley should be rotated like shown:
 
 
-
 |                                             |                                                  |
 | :-----------------------------------------: | :----------------------------------------------: |
 | <img src ='../img/shoulder/cable1_2_1.png'> | <img src ='../img/shoulder/cable1_2_pulley.png'> |
-
-
 
 
 
@@ -339,17 +328,20 @@ Make sure you face the crimps as shown below before tensioning, in order to have
 Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccola   RC_TLR_003_P_037 posizionare il copri cavo in abs (plastica) ovvero il   pezzo  IIT_003_P_006_00 SX
 -->
 
-<center><img src='../img/shoulder/ICUB_SHOULDER_RIGHT_Cable_4.png'  width=85%></center>
+<center><img src ='../img/shoulder/ICUB_SHOULDER_RIGHT_Cable_4.png'  width=85%></center>
+
 > Route cable N4 as per the diagram above.
 > 
 > Now you can tense both screws for tension cable 3 and 4
 
 !!! TIP
+
     Do cycles of 5 turns for each screws in order to find an equal tensioning
 
 ### <u>IMPORTANT NOTES</u> for Cable from 8 to 5
 
 !!! danger "From cable 8 to 5"
+
     **To mount the cables 8 - 7 - 6 - 5, it is important to start with all of them already disconnected. You   first need to replace the broken cable(s) by starting to enter the head crimp   (4mm size – smaller one or ball crimp) of the cable 7 and 8 inside their respective   tensioner. You will need later to start wiring cable 7 and 8 in their future   path BUT to do so it is necessary to create SPACE FOR THE CRIMPS TO PASS.**
     
     **There are 2 designs for the   shoulder so it is necessary to see the difference in between both of them to know how to untighten the good pieces and screws to create that SPACE**
@@ -362,6 +354,7 @@ Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccol
 > 4. Start wiring
 
 <h3>VERSION 2</h3>
+
 ![ICUB-SHOULDER](./img/shoulder/ICUB_SHOULDER_RIGHT_V2.png)
 
 > 1. Loose the the 2 screws M4x12 to slide a bit the block of 2 pulleys (grey and yellow) to give space until you can pass both crimp 8 and 7 following the routing explain below.
@@ -370,34 +363,44 @@ Una volta cablato   il cavo, nel passaggio del cavo attorno alla puleggia piccol
 
 ### 4.3	Right Shoulder Elevation Cable 8 and 7
 
-<center><img src ='../img/shoulder/ICUB_SHOULDER_RIGHT_Cable_8.png'  width="90%"></center>
+<figure markdown="span">
+    <img src ='../img/shoulder/ICUB_SHOULDER_RIGHT_Cable_8.png' width="90%">
+    <img src ='../img/shoulder/ICUB_SHOULDER_RIGHT_Cable_7.png' width="90%">
+</figure>
 
-<center><img src='../img/shoulder/ICUB_SHOULDER_RIGHT_Cable_7.png' width="90%" height="auto"></center>
 > Once both crimps jumped over the 2 teeth holding the crimp in position - you can start tightening the screws of the tensioners 7 and 8.
 
 ### 4.4	Right Shoulder Elevation Cable 6 and 5
 
 > Those 2 cables are quite straight forward to mount, just follow the 2 following pictures.
 
-<center>![ICUB-SHOULDER](img/shoulder/ICUB_SHOULDER_RIGHT_Cable_6.png)</center>             
-<center>![ICUB-SHOULDER](img/shoulder/ICUB_SHOULDER_RIGHT_Cable_5.png)</center>
+<figure markdown="span">
+  ![ICUB-SHOULDER](img/shoulder/ICUB_SHOULDER_RIGHT_Cable_6.png)
+  ![ICUB-SHOULDER](img/shoulder/ICUB_SHOULDER_RIGHT_Cable_5.png)
+</figure>
+
 > Once both crimps jumped over the 2 teeth holding the in position you can start tightening the screws of the tensioners 6 and 5
 
 ## 5	Right Elbow cabling 
 
 > Those 2 cables are not specifically difficult to route but unfortunately you need to be cautious to proceed undamaging the electronical board located beneath the upper arm.
 
-<img src='../img/shoulder/ICUB_ELBOW_RIGHT.png' width = 80%>
+<figure markdown="span">
+  <img src ='../img/shoulder/ICUB_ELBOW_RIGHT.png' width="80%">
+</figure>
 
 !!! warning
+
     **EITHER** you remove the Lower Arm by Following the instructions for Lower Arm [**V1**](remove_V1.md) or Lower Arm [**V2**](remove_V2.md)
     
     **OR** You are helped by **someone else** to hold the Lower Arm.
 
-
-<center>![ICUB_ELBOW](img/shoulder/ICUB_Elbow_RIGHT_Cable_9-10.png)</center> 
+<figure markdown="span">
+  ![ICUB_ELBOW_RIGHT_Cable_9-10](img/shoulder/ICUB_Elbow_RIGHT_Cable_9-10.png)
+</figure>
 
 !!! tip "Rules of routing"
+
     1. Remove the lower part of the upper arm cover if  NOT done yet
         2. Remove the lateral plate (the **ONE** with **NO** sensor) by unmounting the 2 screws holding it.
         3. Turn the main shaft by the help of a screw driver to apply enough torque to make it spin, until you reach the same situation as the pictures above (this is the view from **below** the elbow)

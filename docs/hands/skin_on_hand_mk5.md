@@ -17,7 +17,7 @@ for soldering on the pads of the triangle. The connection scheme is represented
 here below:
 
 <p align="center">
-    <img  src=    "../img/palm_mount.png"
+    <img  src =    "../img/palm_mount.png"
           width=  "1200">
 </p>
 <p align="center">
@@ -54,7 +54,7 @@ The fingertip comprises a 3DMID piece with the patterned taxels and a convention
 The taxel mapping is represented in Fig. 2.
 
 <p align="center">
-    <img  src=    "../img/taxel_map.jpg"
+    <img  src =    "../img/taxel_map.jpg"
           width=  "750">
 </p>
 <p align="center">
@@ -68,7 +68,7 @@ The configuration is made through the jumpers **AD0** and **AD1** reported in Fi
 the desired connection on the dedicated jumper. Also **R1** is to be removed in this revision. 
 Depending on the connection (see below) the **IMU** also needs to be removed.
 <p align="center">
-    <img  src=    "../img/FT3D_Top.jpg"
+    <img  src =    "../img/FT3D_Top.jpg"
           width=  "750">
 </p>
 <p align="center">
@@ -134,7 +134,7 @@ Plus:
 4. screwdriver
 
 <p align="center">
-    <img  src=    "../img/list_material.png"
+    <img  src =    "../img/list_material.png"
           width=  "750">
 </p>
 <p align="center">
@@ -146,7 +146,7 @@ Plus:
 #### Procedure
 
 <p align="center">
-    <img  src=    "../img/3dMID_fixed.png"
+    <img  src =    "../img/3dMID_fixed.png"
           width=  "500">
 </p>
 <p align="center">
@@ -157,7 +157,7 @@ Plus:
 - Plug the soldering support on the base.
 
 <p align="center">
-    <img  src=    "../img/3dmid_plugged.png"
+    <img  src =    "../img/3dmid_plugged.png"
           width=  "500">
 </p>
 <p align="center">
@@ -172,7 +172,7 @@ Plus:
 - Go on and solder all the pads.
 
 <p align="center">
-    <img  src=    "../img/soldered.png"
+    <img  src =    "../img/soldered.png"
           width=  "500">
 </p>
 <p align="center">
@@ -185,7 +185,7 @@ To fully mount the fingertip, proceed with the next steps:
 - Put on the rubber fingertip cod. 17377.
 
 <p align="center">
-    <img  src=    "../img/3DMIDwCap.png"
+    <img  src =    "../img/3DMIDwCap.png"
           width=  "500">
 </p>
 <p align="center">
@@ -195,7 +195,7 @@ To fully mount the fingertip, proceed with the next steps:
 - Test the fingertip in this condition.
 
 <p align="center">
-    <img  src=    "../img/3DMIDwCap_support.png"
+    <img  src =    "../img/3DMIDwCap_support.png"
           width=  "500">
 </p>
 <p align="center">
@@ -210,7 +210,7 @@ To fully mount the fingertip, proceed with the next steps:
 At this point, the assembly should look sturdy and precisely fit, in addition you can tighten it with **1.6x8 mm screw**. Now it's ready for testing the signals. 
 
 <p align="center">
-    <img  src=    "../img/insertion.png"
+    <img  src =    "../img/insertion.png"
           width=  "750">
 </p>
 <p align="center">
@@ -251,7 +251,7 @@ The schematic of the MMA is shown below.
 
 ### Tactile sensors
 <p align="center">
-    <img  src=    "../img/fingertips_connection.png"
+    <img  src =    "../img/fingertips_connection.png"
           width=  "750">
 </p>
 <p align="center">
@@ -264,7 +264,7 @@ The tactile sensors are connected to the MMA as in Fig. 11. Both fingertips and 
 The encoders are connected as reported in the table above and in the schematic snapshot in Fig. 12.
 
 <p align="center">
-    <img  src=    "../img/encoders_connection.png"
+    <img  src =    "../img/encoders_connection.png"
           width=  "750">
 </p>
 <p align="center">

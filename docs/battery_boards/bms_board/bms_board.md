@@ -8,8 +8,8 @@ The `BMS` is connected to an `EMS` board through the `CAN` connector devoted to 
 
 <center>
 <table><tr>
-<td><img width="500" height="500" src="../assets/bms-2-ems-ergoCub-connection.png"/></td>
-<td><img width="500" height="500" src="../assets/ems-2-bms-ergoCub-connection.png"/></td>
+<td><img width="500" height="500" src ="../assets/bms-2-ems-ergoCub-connection.png"/></td>
+<td><img width="500" height="500" src ="../assets/ems-2-bms-ergoCub-connection.png"/></td>
 </tr></table>
 </center>
 

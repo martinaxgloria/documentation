@@ -118,7 +118,7 @@ Here you will find the overall table describing the the mandatory sheaths to be 
 
 | Left Hand                                                    | Right Hand                                                   |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| <img src="../img/HAND_WRIST_V2/Opposite_palm-view.png" width="700"> | <img src="../img/HAND_WRIST_V2/R_Th-opp-d-view.png" width="700"> |
+| <img src ="../img/HAND_WRIST_V2/Opposite_palm-view.png" width="700"> | <img src ="../img/HAND_WRIST_V2/R_Th-opp-d-view.png" width="700"> |
 
 S0 exits the motor case from the hole near the motor (H2). Enters the finger in the hole which is internal to the palm (H3).
 

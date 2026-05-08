@@ -4,7 +4,7 @@ The F/T sensor (6-dof) has also been specially designed to fit the iCub. However
 
 <center>
   <figure>
-    <img src="../img/ft-sensor.png"/>
+    <img src ="../img/ft-sensor.png"/>
   </figure>
 </center>
 
@@ -26,7 +26,7 @@ Table 1: Physical specifications of the sensor
 
 <center>
   <figure>
-    <img src="../img/ft-frame.png"/>
+    <img src ="../img/ft-frame.png"/>
     <figcaption><b>The F/T sensor reference frame</b></figcaption>
   </figure>
 </center>
@@ -80,7 +80,7 @@ Firmware source code:
 | **12621**   |    FT58\_M2\_E2     | \-      | FT58 M2 cod.**12176.A1 - IC\_005\_A\_001** + **STRAIN2** cod.**11996.B** + **Wiring materials** cod.**12478.0.0**             |                                                                             
 <center>
   <figure>
-    <img src="../img/assemby-variants.png"/>
+    <img src ="../img/assemby-variants.png"/>
   </figure>
 </center>
 
@@ -137,7 +137,7 @@ The recommended tightening torque is 2.8Nm.
 
 <center>
   <figure>
-    <img src="../img/img-1.png"/>
+    <img src ="../img/img-1.png"/>
   </figure>
 </center>
 
@@ -146,7 +146,7 @@ The recommended tightening torque is 2.8Nm.
 
 <center>
   <figure>
-    <img src="../img/img-2.png"/>
+    <img src ="../img/img-2.png"/>
   </figure>
 </center>
 
@@ -159,7 +159,7 @@ The recommended tightening torque is 2Nm.
 
 <center>
   <figure>
-    <img src="../img/img-3.jpeg"/>
+    <img src ="../img/img-3.jpeg"/>
   </figure>
 </center>
 
@@ -168,7 +168,7 @@ The recommended tightening torque is 2Nm.
 
 <center>
   <figure>
-    <img src="../img/img-4.png"/>
+    <img src ="../img/img-4.png"/>
   </figure>
 </center>
 
@@ -222,8 +222,8 @@ There are three cards for reading six-axis F/T Sensors:
 
 <center>
   <figure>
-    <img src="../img/img-5.png"/>
-    <img src="../img/img-6.png"/>
+    <img src ="../img/img-5.png"/>
+    <img src ="../img/img-6.png"/>
   </figure>
 </center>
 
@@ -233,7 +233,7 @@ There are three cards for reading six-axis F/T Sensors:
 
 <center>
   <figure>
-    <img src="../img/cabling-strain.png"/>
+    <img src ="../img/cabling-strain.png"/>
   </figure>
 </center>
 
@@ -241,7 +241,7 @@ There are three cards for reading six-axis F/T Sensors:
 
 <center>
   <figure>
-    <img src="../img/cabling-strain2.png"/>
+    <img src ="../img/cabling-strain2.png"/>
   </figure>
 </center>
 

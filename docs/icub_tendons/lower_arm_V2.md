@@ -86,11 +86,11 @@ The minimum requirement to start re-cabling distal joints is:
 
 |                                                         | STEP BY STEP GUIDE FOR A GOOD KNOT                           |
 | ------------------------------------------------------- | ------------------------------------------------------------ |
-| <img src='../img/lowerArm/knot1.jpg' width =400>        | Start by cutting one piece of 40cm from the cable IITCODE 2391.<br />Make a knot at one extremity. |
-| <img src="../gif/lower_arm/knot_video.gif" width = 400> | Use 2 pliers to close it hard. The plier closest to the knot is just opened-free to let the cable to run over it but is here to block the knot, the second one pull the cable to tighten the knot. |
-| <img src='../img/lowerArm/knot3.jpg' width = 400>       | Drop a tear of glue on the knot and dry it. <br>**REMOVE** the excess with a tissue - double check that the knot is perfectly dry before to proceed. |
-| <img src='../img/lowerArm/knot4.jpg' width = 400>       | Cut the excess of cable.                                     |
-| <img src='../img/lowerArm/knot5.jpg' width = 400>       | FINISHED!!!                                                  |
+| <img src ='../img/lowerArm/knot1.jpg' width =400>        | Start by cutting one piece of 40cm from the cable IITCODE 2391.<br />Make a knot at one extremity. |
+| <img src ="../gif/lower_arm/knot_video.gif" width = 400> | Use 2 pliers to close it hard. The plier closest to the knot is just opened-free to let the cable to run over it but is here to block the knot, the second one pull the cable to tighten the knot. |
+| <img src ='../img/lowerArm/knot3.jpg' width = 400>       | Drop a tear of glue on the knot and dry it. <br>**REMOVE** the excess with a tissue - double check that the knot is perfectly dry before to proceed. |
+| <img src ='../img/lowerArm/knot4.jpg' width = 400>       | Cut the excess of cable.                                     |
+| <img src ='../img/lowerArm/knot5.jpg' width = 400>       | FINISHED!!!                                                  |
 
 
 
@@ -102,13 +102,13 @@ The minimum requirement to start re-cabling distal joints is:
 
 | pictures | step by step guide |
 | --- | --- |
-| <img src='../gif/lower_arm/cable_in_hole.gif' width=200><br /> <img src='../img/lowerArm/shaft_hole.png' width=200><br /> | 1. Insert the knot until it remains inside the socket of the pulley |
-| <img src="../img/lowerArm/hole_TH_V2.png" width=600> | 2. Just insert the cable inside the hole (red circle) |
-| <img src="../img/lowerArm/wir_mot_1-2_TH_V2.png" width=00><br/> <img src="../img/lowerArm/wir_mot_1-1_TH_V2.png" width=400> | 3. The cable should get **OUT** from here - BE PATIENT!!! |
-| <img src="../img/lowerArm/wir_TH_V2_base.png" width=400> | 4. The cable will then run inside the sheath until it reaches the base of the thumb |
-| <img src="../img/lowerArm/wir_TH_V2_along.png" width=400> | 5. Wire this way |
-| <img src="../img/lowerArm/TH_K.png" width=400> | 6. Make the final knot - you need to make it very close to the finger nail hole (1-2cm away max) - **PLEASE DO NOT USE GLUE ON THE FINAL KNOT**|
-| <img src="../img/lowerArm/TH_closing.png" width=400> | 7. Just use a screwdriver to make the thumb start closing |
+| <img src ='../gif/lower_arm/cable_in_hole.gif' width=200><br /> <img src ='../img/lowerArm/shaft_hole.png' width=200><br /> | 1. Insert the knot until it remains inside the socket of the pulley |
+| <img src ="../img/lowerArm/hole_TH_V2.png" width=600> | 2. Just insert the cable inside the hole (red circle) |
+| <img src ="../img/lowerArm/wir_mot_1-2_TH_V2.png" width=00><br/> <img src ="../img/lowerArm/wir_mot_1-1_TH_V2.png" width=400> | 3. The cable should get **OUT** from here - BE PATIENT!!! |
+| <img src ="../img/lowerArm/wir_TH_V2_base.png" width=400> | 4. The cable will then run inside the sheath until it reaches the base of the thumb |
+| <img src ="../img/lowerArm/wir_TH_V2_along.png" width=400> | 5. Wire this way |
+| <img src ="../img/lowerArm/TH_K.png" width=400> | 6. Make the final knot - you need to make it very close to the finger nail hole (1-2cm away max) - **PLEASE DO NOT USE GLUE ON THE FINAL KNOT**|
+| <img src ="../img/lowerArm/TH_closing.png" width=400> | 7. Just use a screwdriver to make the thumb start closing |
 | **YOU ARE DONE!!! CONGRATULATIONS!!!** | Please close the fingertip and its nail and put back in place the lateral bar |
 
 
@@ -123,14 +123,14 @@ The minimum requirement to start re-cabling distal joints is:
 
 | Pictures | step by step guide |
 | --- | --- |
-| <img src="../gif/lower_arm/cable_in_hole.gif" width=200><br /> <img src="../img/lowerArm/shaft_hole.png" width=200> | 1. Insert the knot until it remains inside the socket of the pulley |
-| <img src="../img/lowerArm/holes_I_M_V2.png" width=600> | 2. Just insert the cable inside the hole (red circle) |
-| <img src="../img/lowerArm/wir_mot_1-1_I_M_V2.png" width=700><br /> <img src="../img/lowerArm/wir_mot_1-2_I_M_V2.png" width=700> | 3. The cable should get **OUT** from here - BE PATIENT!!! |
-| <img src="../img/lowerArm/base_I_M.png" width=400> |4. The cable will then run inside the sheath until it reaches the base of the Middle or Index (view from the palm side) |
-| <img src="../img/lowerArm/wir_I_M_V2_along.png" width=400> | 5. Wire this way. |
-| <img src="../img/lowerArm/nailV2.png" width=400> | 6. Please remove the screw holding the nail onto the fingertip - move the fingertip sensor away from the base of the fingertip (1cm away max) |
-| <img src="../img/lowerArm/TH_K.png" width=400> | 7. Make the final knot - you need to make it very close to the finger nail hole (1-2cm away max) |
-| <img src="../img/lowerArm/I_M_closing.png" width=400> | 7. Just use a screwdriver to make the thumb start closing.<br />Just recall to do not force with the screwdriver if the movement looks like stuck, do some rotation clock/counter-clock wise in order to unstuck it. |
+| <img src ="../gif/lower_arm/cable_in_hole.gif" width=200><br /> <img src ="../img/lowerArm/shaft_hole.png" width=200> | 1. Insert the knot until it remains inside the socket of the pulley |
+| <img src ="../img/lowerArm/holes_I_M_V2.png" width=600> | 2. Just insert the cable inside the hole (red circle) |
+| <img src ="../img/lowerArm/wir_mot_1-1_I_M_V2.png" width=700><br /> <img src ="../img/lowerArm/wir_mot_1-2_I_M_V2.png" width=700> | 3. The cable should get **OUT** from here - BE PATIENT!!! |
+| <img src ="../img/lowerArm/base_I_M.png" width=400> |4. The cable will then run inside the sheath until it reaches the base of the Middle or Index (view from the palm side) |
+| <img src ="../img/lowerArm/wir_I_M_V2_along.png" width=400> | 5. Wire this way. |
+| <img src ="../img/lowerArm/nailV2.png" width=400> | 6. Please remove the screw holding the nail onto the fingertip - move the fingertip sensor away from the base of the fingertip (1cm away max) |
+| <img src ="../img/lowerArm/TH_K.png" width=400> | 7. Make the final knot - you need to make it very close to the finger nail hole (1-2cm away max) |
+| <img src ="../img/lowerArm/I_M_closing.png" width=400> | 7. Just use a screwdriver to make the thumb start closing.<br />Just recall to do not force with the screwdriver if the movement looks like stuck, do some rotation clock/counter-clock wise in order to unstuck it. |
 | **YOU ARE DONE!!! CONGRATULATIONS!!!** | Please close the fingertip and its nail and put back in place the lateral bar |
 
 

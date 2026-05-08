@@ -12,7 +12,7 @@ Upon reception of the motor temperature, `embObjMotionControl` converts the valu
 Here's a small yet exhaustive sequence diagram showing the whole dataflow as summarized above. It is possible to observe how the different actors that take part in the pipeline interact with each other, starting from the lower level up to the higher level.
 
 <p align="center">
-    <img  src="../img/MotorTemperature-Feature.png" width="700">
+    <img  src ="../img/MotorTemperature-Feature.png" width="700">
 </p>
 
 

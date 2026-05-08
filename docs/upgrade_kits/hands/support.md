@@ -55,7 +55,7 @@ Assemble upgrade support Mais and FTC
 
 ##Assembly sequence##
 <div width="100%">
-    <img src="../gif/4.gif" width="2000px" height="auto" >
+    <img src ="../gif/4.gif" width="2000px" height="auto" >
 </div>
 
 Mounting the cover (dorsum of the hand):
@@ -63,5 +63,5 @@ pass the hook of the dorsum cover between the steel cable (tendon) and the palm 
 See video
 
 <video style="display: block;margin-left: auto;margin-right: auto;width:70%; border:solid 1px" controls autoplay muted>
-    <source src="../movie/video.mp4">
+    <source src ="../movie/video.mp4">
 </video>

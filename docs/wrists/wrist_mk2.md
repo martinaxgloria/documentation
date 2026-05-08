@@ -1,6 +1,6 @@
 # Wrist Mk2.0 vs Wrist Mk2.1
 <p align="center">
-  <img  src=    "../img/mk2.0_vs_mk2.1.png"
+  <img  src =    "../img/mk2.0_vs_mk2.1.png"
         title=  "mk2.0_vs_mk2.1.png"
         width=  "">
 </p>
@@ -23,7 +23,7 @@
 |              |        | r_wrist_pitch | ROT  | r_wrist_2   | r_hand_palm | -                 | -                 | -20°          | 20°           |              |
 
 <p align="center">
-  <img  src=    "../img/pitches.png"
+  <img  src =    "../img/pitches.png"
         title=  "pitches.png"
         width=  "750">
 </p>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img  src=    "../img/wrist-yaw-roll.png"
+  <img  src =    "../img/wrist-yaw-roll.png"
         title=  "wrist-yaw-roll.png"
         width=  "750">
 </p>

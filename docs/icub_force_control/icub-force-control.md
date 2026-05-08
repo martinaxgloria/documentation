@@ -118,7 +118,7 @@ The torques estimation is perfomed by the iDyn library which includes a mechanic
 If the joint stiffness is zero and `gravityCompensator` is off, the gravity will make the joint to fall down regardless the commanded position. In this case, running the `gravityCompensator` is the only way to track to commanded position.
 Be particular careful in this situation: consider a joint in impedance position control mode, with the gravity compensator turned off and low joint stiffness (e.g 0.01Nm/deg). In this case the position tracking error will be high: for example if you command a position of 30degrees, due to the gravity effect and the very low stiffness, the joint could able to reach only the position at 10 degrees (so the tracking error is 20 degrees). In this condition the impedance control loop is computing a command torque T=0.01*(30-10)=0.2Nm. Now, if you suddenly increase (with a step) the joint stiffness to a high value (for example i.e. 0.6Nm.deg) you obtain a command torque of T=0.5*(30-10)=12Nm which is a huge torque. The joint will move very fast (and joint tendons may be also damaged). In this case the solution is to increase the stiffness gradually, in order to make the position tracking error decrease before setting the joint in high-stiffness mode or turning on the gravity compensator. With the gravity compensator enabled the position error will be limited to few degrees even with low stiffness values.
 
-<img src="../img/startup1.png" width="800">
+<img src ="../img/startup1.png" width="800">
 
 
 ## Demo Force control 
@@ -127,9 +127,9 @@ Be particular careful in this situation: consider a joint in impedance position 
 On the server run `yarpmanager` and run : 
 
 
-<img src="../img/run-icubsrv.png" width="800">
+<img src ="../img/run-icubsrv.png" width="800">
 
-<img src="../img/run-nodes.png" width="800">
+<img src ="../img/run-nodes.png" width="800">
 
 
 Open the `iCubStarup` application amd run `yarprobointerface` , `yarplogger` (optional to log messages) `wholeBodyDynamics` and `gravityCompensator` modules
@@ -147,7 +147,7 @@ Repeat the command above for all parts having a sensor (typically left_arm, righ
 - In the yarpmanager, double click on **iCubStartup**
 - Select `wholeBodyDynamics` and `gravityCompensator` modules, right click and run
 
-<img src="../img/force-control1.png" width="800">
+<img src ="../img/force-control1.png" width="800">
 
 ⚠️ If you have problems opening the WholeBodyDynamics module, double check that in the file _icub_all.xml_ there is:
 
@@ -170,7 +170,7 @@ If values are not close to the table above, stop running and check sensors.
 
 🔴 **Do not apply force to the torso (experimental)!**
 
-<img src="../img/force-control2.png" width="800">
+<img src ="../img/force-control2.png" width="800">
 
 For each part to test, first select soft spring, move it by hand checking a right force response. Then repeat with medium and hard spring.
 

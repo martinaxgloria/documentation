@@ -19,8 +19,8 @@ In general, as shown in the figures below (illustrating the connection between t
 
 <center>
 <table><tr>
-<td><img width="500" height="500" src="../assets/bat-2-ems-R1-connection-01.png"/></td>
-<td><img width="500" height="500" src="../assets/bat-2-ems-R1-connection-02.png"/></td>
+<td><img width="500" height="500" src ="../assets/bat-2-ems-R1-connection-01.png"/></td>
+<td><img width="500" height="500" src ="../assets/bat-2-ems-R1-connection-02.png"/></td>
 </tr></table>
 </center>
 

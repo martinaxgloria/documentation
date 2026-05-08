@@ -4,7 +4,7 @@
 This picture below depicts the flow of the tactile data, starting from the [physical sensors](../hardware/physical_sensors.md) and moving up to the user applications and the GUIs.
 
 <p align="center">
-    <img  src="../img/skin-yarp-network.png" width="700">
+    <img  src ="../img/skin-yarp-network.png" width="700">
 </p>
 
 The tactile sensor data are sent on YARP ports with names `/icub/skin/part_name` ("data ports" in the figure).
@@ -23,7 +23,7 @@ Also, the `skinManager` has its own GUI, which allows the user to adjust the fil
 The picture below illustrates a scheme of a possible application that uses the tactile data.
 
 <p align="center">
-    <img  src="../img/skin-dataflow.png" width="700">
+    <img  src ="../img/skin-dataflow.png" width="700">
 </p>
 
 In particular, the depicted application is the autonomous skin calibration, which is composed of two main modules:

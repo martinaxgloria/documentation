@@ -21,9 +21,9 @@ It depends the problem you encounter, Please refer to the table below to find ou
 
 | Pictures                                                     |                                                              |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
-| Skin biceps removal  1 <br><img src="../img/Disconnect_lower_arm/skin_bicepsV1.png" width=70%> | Skin biceps removal  2 <br> <img src="../img/Disconnect_lower_arm/skin_biceps1_V1.png" width=70%> |
-| Skin biceps removal 3 <br> <img src="../img/Disconnect_lower_arm/skin_biceps2_V1.png" width=70%> | Biceps back cover removal  1 <br> <img src="../img/Disconnect_lower_arm/3tricepsV1.png" width=70%> |
-| Biceps back cover removal 2 - skin is hanging  <br><img src="../img/Disconnect_lower_arm/skin_hangingV1.png" width=70%> | Biceps back cover removal 3 <br><img src="../img/Disconnect_lower_arm/lateral_screwsV1.png" width=70%> |
-| Disconnect skin 1<br><img src="../img/Disconnect_lower_arm/disconnect_skinV1.png" width=70%> | Disconnect MC4 connections 1 <br> <img src="../img/Disconnect_lower_arm/connectionsV1.png" width=70%> |
-| Disconnect MC4 connections 2 <br><img src="../img/Disconnect_lower_arm/connections2_V1.png" width=70%> | Disconnect MC4 connections 3 <br/> <img src="../img/Disconnect_lower_arm/connections3_V1.png" width=70%> |
-| Remove final 3 screws <br> <img src="../img/Disconnect_lower_arm/3screwsV1.png" width=70%> |                                                              |
+| Skin biceps removal  1 <br><img src ="../img/Disconnect_lower_arm/skin_bicepsV1.png" width=70%> | Skin biceps removal  2 <br> <img src ="../img/Disconnect_lower_arm/skin_biceps1_V1.png" width=70%> |
+| Skin biceps removal 3 <br> <img src ="../img/Disconnect_lower_arm/skin_biceps2_V1.png" width=70%> | Biceps back cover removal  1 <br> <img src ="../img/Disconnect_lower_arm/3tricepsV1.png" width=70%> |
+| Biceps back cover removal 2 - skin is hanging  <br><img src ="../img/Disconnect_lower_arm/skin_hangingV1.png" width=70%> | Biceps back cover removal 3 <br><img src ="../img/Disconnect_lower_arm/lateral_screwsV1.png" width=70%> |
+| Disconnect skin 1<br><img src ="../img/Disconnect_lower_arm/disconnect_skinV1.png" width=70%> | Disconnect MC4 connections 1 <br> <img src ="../img/Disconnect_lower_arm/connectionsV1.png" width=70%> |
+| Disconnect MC4 connections 2 <br><img src ="../img/Disconnect_lower_arm/connections2_V1.png" width=70%> | Disconnect MC4 connections 3 <br/> <img src ="../img/Disconnect_lower_arm/connections3_V1.png" width=70%> |
+| Remove final 3 screws <br> <img src ="../img/Disconnect_lower_arm/3screwsV1.png" width=70%> |                                                              |

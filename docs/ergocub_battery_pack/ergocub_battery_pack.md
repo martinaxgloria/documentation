@@ -21,7 +21,7 @@ The adopted solution is designed to power and supply the `ergocub`. This project
 
 <center>
   <figure>
-    <img src="../assets/battery_general.png"/>
+    <img src ="../assets/battery_general.png"/>
   </figure>
 </center>
 
@@ -67,7 +67,7 @@ Stowe it in robot arena in the cabinet shown in this image:
 
 <center>
   <figure>
-    <img src="../assets/locker_battery.png".png"/>
+    <img src ="../assets/locker_battery.png".png"/>
   </figure>
 </center>
 
@@ -84,7 +84,7 @@ The `Battery pack` must be charged with the appropriate charger. Follow the inst
 
 <center>
   <figure>
-    <img src="../assets/recharger_station.png"/>
+    <img src ="../assets/recharger_station.png"/>
   </figure>
 </center>
 
@@ -98,7 +98,7 @@ After that, the charger will perform a few tests and start charging. You can fig
 
 <center>
   <figure>
-    <img src="../assets/status_led.png"/>
+    <img src ="../assets/status_led.png"/>
   </figure>
 </center>
 
@@ -122,7 +122,7 @@ Consider this scenario when the robot is switched off and there are no power cab
 
 <center>
   <figure>
-    <img src="../assets/first_use.png"/>
+    <img src ="../assets/first_use.png"/>
   </figure>
 </center>
 
@@ -132,7 +132,7 @@ At this point the `Battery pack` verifies (via the integrated `BMS`) that the us
 
 <center>
   <figure>
-    <img src="../assets/button1.png"/>
+    <img src ="../assets/button1.png"/>
   </figure>
 </center>
 

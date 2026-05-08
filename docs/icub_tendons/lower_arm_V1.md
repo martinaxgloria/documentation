@@ -57,15 +57,15 @@ The minimum requirement to start recabling:
 
 |  | STEP BY STEP GUIDE FOR A GOOD KNOT |
 |---|---|
-|<img src='../img/lowerArm/knot1.jpg' width =400>|Start by cutting one piece of 40cm from the cable IITCODE 2391.<br />Make a knot at one extremity.|
-|<img src="../gif/lower_arm/knot_video.gif" width = 400>|use 2 pliers to close it hard. The plier closest to the knot is just opened-free to let the cable to run over it but is here to block the knot, the second one pull the cable to tighten the knot. Place the pliers on the same side, in order to not damage the cable.|
-|<img src='../img/lowerArm/knot3.jpg' width = 400>|drop a tear of glue on the knot and dry it. <br>**REMOVE** the excess with a tissue - double check that the knot is perfectly dry before to proceed.|
-|<img src='../img/lowerArm/knot4.jpg' width = 400>| cut the excess of cable |
-|<img src='../img/lowerArm/knot5.jpg' width = 400>| FINISHED!!! |
+|<img src ='../img/lowerArm/knot1.jpg' width =400>|Start by cutting one piece of 40cm from the cable IITCODE 2391.<br />Make a knot at one extremity.|
+|<img src ="../gif/lower_arm/knot_video.gif" width = 400>|use 2 pliers to close it hard. The plier closest to the knot is just opened-free to let the cable to run over it but is here to block the knot, the second one pull the cable to tighten the knot. Place the pliers on the same side, in order to not damage the cable.|
+|<img src ='../img/lowerArm/knot3.jpg' width = 400>|drop a tear of glue on the knot and dry it. <br>**REMOVE** the excess with a tissue - double check that the knot is perfectly dry before to proceed.|
+|<img src ='../img/lowerArm/knot4.jpg' width = 400>| cut the excess of cable |
+|<img src ='../img/lowerArm/knot5.jpg' width = 400>| FINISHED!!! |
 
 | |Insert the knot until it remains inside the socket of the pulley|
 |---|:-:|
-|<img src="../gif/lower_arm/cable_in_hole.gif" width = 250>|<img src="../img/lowerArm/shaft_hole.png" width = 250>|
+|<img src ="../gif/lower_arm/cable_in_hole.gif" width = 250>|<img src ="../img/lowerArm/shaft_hole.png" width = 250>|
 
 
 
@@ -78,10 +78,10 @@ Here you can find a procedure for recabling the Thumb Distal Joint of the right 
 
 | Pictures                                                     | step by step guide                                           |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="../img/lowerArm/Th_I_O_new.png" width = 700>       | In order to recable this joint, just insert the new cable **IN** side the hole (red circle - blue arrow) - the hole is in the internal side of the pulley cage. Once inserted, the cable should get **OUT** at the base of the phalange (red arrow). |
-| <img src="../img/lowerArm/Thumb_cableV1.png" width = 700> <img src="../img/lowerArm/Thumb_parallelV1.png" width = 700> | From the base of the phalange, insert the cable in the two pulleys following the path (red), ensuring that the cable remains parallel while looping (see bottom picture). |
+| <img src ="../img/lowerArm/Th_I_O_new.png" width = 700>       | In order to recable this joint, just insert the new cable **IN** side the hole (red circle - blue arrow) - the hole is in the internal side of the pulley cage. Once inserted, the cable should get **OUT** at the base of the phalange (red arrow). |
+| <img src ="../img/lowerArm/Thumb_cableV1.png" width = 700> <img src ="../img/lowerArm/Thumb_parallelV1.png" width = 700> | From the base of the phalange, insert the cable in the two pulleys following the path (red), ensuring that the cable remains parallel while looping (see bottom picture). |
 |                                                              | For closing the cable, make it exit from the hole at the base of the nail and secure it in its socket with a knot 1-2cm away from the exit of the nail. |
-| <img src="../img/lowerArm/backdrive.png" width = 400>        | By using a flat screwdriver the size of the throat, turning it the direction shown above (front view of the hand with palm down):  you should be able to see the cable get sucked up until finally you can see the finger closing entirely. |
+| <img src ="../img/lowerArm/backdrive.png" width = 400>        | By using a flat screwdriver the size of the throat, turning it the direction shown above (front view of the hand with palm down):  you should be able to see the cable get sucked up until finally you can see the finger closing entirely. |
 |                                                              | Make sure the finger can easily get closed and opened by turning CW and CCW from mid range closing. |
 |                                                              | **FINISHED!!!**                                              |
 
@@ -96,12 +96,12 @@ Here you can find a procedure for recabling the Index or Middle Distal Joints of
 
 | Pictures                                              | step by step guide                                           |
 | ----------------------------------------------------- | ------------------------------------------------------------ |
-| <img src="../img/lowerArm/rm_sliders_screws.png">     | You must consider to move away the slider which covers both motors, to be able to see clearly the hole where the cable will go - for that purpose, please remove the 4 screws indicated in the picture. |
-| <img src="../img/lowerArm/I_I_M.png" width=800>       | After having removed the screws you should be able to move sideways the slider, being able more easily to fit the cable into the retaining socket, but mainly see both internal holes (blue circle for middle distal and red circle for index distal). |
+| <img src ="../img/lowerArm/rm_sliders_screws.png">     | You must consider to move away the slider which covers both motors, to be able to see clearly the hole where the cable will go - for that purpose, please remove the 4 screws indicated in the picture. |
+| <img src ="../img/lowerArm/I_I_M.png" width=800>       | After having removed the screws you should be able to move sideways the slider, being able more easily to fit the cable into the retaining socket, but mainly see both internal holes (blue circle for middle distal and red circle for index distal). |
 |                                                       | Put the cable inside the correct hole, depending on which cable you are going to restore (middle finger - red hole & index finger - blue hole). |
-| <img src="../img/lowerArm/O_I_M.png" width=800>       | Push it until it gets OUT from the base of the first phalange of either index or middle depending on the cable you want to fix. |
-| <img src="../img/lowerArm/wiring.png" width = 500>    | Twin the cable as shown and make a knot 1-2cm away from the exit of the nail. |
-| <img src="../img/lowerArm/backdrive.png" width = 400> | By using a flat screwdriver the size of the throat, turning it the direction shown above (front view of the hand with palm down):  you should be able to see the cable get sucked up until finally you can see the finger closing entirely. |
+| <img src ="../img/lowerArm/O_I_M.png" width=800>       | Push it until it gets OUT from the base of the first phalange of either index or middle depending on the cable you want to fix. |
+| <img src ="../img/lowerArm/wiring.png" width = 500>    | Twin the cable as shown and make a knot 1-2cm away from the exit of the nail. |
+| <img src ="../img/lowerArm/backdrive.png" width = 400> | By using a flat screwdriver the size of the throat, turning it the direction shown above (front view of the hand with palm down):  you should be able to see the cable get sucked up until finally you can see the finger closing entirely. |
 |                                                       | Make sure the finger can easily get closed and opened by turning CW and CCW from mid range closing. |
 |                                                       | **FINISHED!!!**                                              |
 

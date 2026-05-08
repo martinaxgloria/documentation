@@ -16,7 +16,7 @@ The F/T reference frame can be determined by visual inspection (see Figure 1):
 
 <center>
   <figure>
-    <img src="../img/ft-frame.png"/>
+    <img src ="../img/ft-frame.png"/>
     <figcaption><b>Figure 1: the FT reference frame as can be defined while using the device</b></figcaption>
   </figure>
 </center>
@@ -36,7 +36,7 @@ Finally, the IMU origin in the F/T frame coordinates are $\left( 7.5, \; 8.6 \ri
 
 <center>
   <figure>
-    <img src="../img/strain.png"/>
+    <img src ="../img/strain.png"/>
     <figcaption><b>Figure 2. The Strain2 simplified board layout with highlighted the reference frames, magenta for the IMU and green for the F/T sensor; in magenta it is also highlighted the footprint of the IMU component</b></figcaption>
   </figure>
 </center>
@@ -73,7 +73,7 @@ As a test, we compared the transformed accelerations with and without the non-in
 
 <center>
   <figure>
-    <img src="../img/noninertialterms_yogademo_rightlegandfoot.png"/>
+    <img src ="../img/noninertialterms_yogademo_rightlegandfoot.png"/>
   </figure>
 </center>
 

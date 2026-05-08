@@ -11,5 +11,5 @@
 #### [:bulb:{.blink} Tips & Tricks](./tips_tricks/index.md)
 
 <center>
-  <video controls autoplay muted loop width="700" height="450"> <source type="video/mp4" src="./assets/icub-rotate.mp4"> </video>
+  <video controls autoplay muted loop width="700" height="450"> <source type="video/mp4" src ="./assets/icub-rotate.mp4"> </video>
 </center>

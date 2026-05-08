@@ -18,7 +18,7 @@
 |              |        | l_pinkie_dist | ROT  | l_hand_pinkie_1 | l_hand_pinkie_2 | 2.78°          | 101.78°        |            |            | P2 in fig. |
 
 <p align="center">
-  <img  src=    "../img/hand-mk5.1-joints.png"
+  <img  src =    "../img/hand-mk5.1-joints.png"
         title=  "hand-mk5.1-joints.png"
         width=  "750">
 </p>
@@ -46,7 +46,7 @@
 |              |        | l_pinkie_dist | ROT  | l_hand_pinkie_1 | l_hand_pinkie_2 | 2.78°          | 92.10°         |            |            | P2 in fig. |
 
 <p align="center">
-  <img  src=    "../img/hand-mk5.1-joints.png"
+  <img  src =    "../img/hand-mk5.1-joints.png"
         title=  "hand-mk5.1-joints.png"
         width=  "750">
 </p>
@@ -72,7 +72,7 @@
 |              |        | l_pinkie_dist | ROT  | l_hand_pinkie_1 | l_hand_pinkie_2 | 0°             | 98.7°          |            |            | P2 in fig. |
 
 <p align="center">
-  <img  src=    "../img/hand-mk5.1-joints.png"
+  <img  src =    "../img/hand-mk5.1-joints.png"
         title=  "hand-mk5.1-joints.png"
         width=  "750">
 </p>
@@ -98,7 +98,7 @@
 |              |        | l_pinkie_dist | ROT  | l_hand_pinkie_1 | l_hand_pinkie_2 | 0°             | 93.3°          |            |            | P2 in fig. |
 
 <p align="center">
-  <img  src=    "../img/hand-mk5.0-joints.png"
+  <img  src =    "../img/hand-mk5.0-joints.png"
         title=  "hand-mk5.0-joints.png"
         width=  "750">
 </p>

@@ -129,7 +129,7 @@ Please follow this [link](lower_arm_V2.md#3-proximal-joints) for an extended HOW
 
 The **THUMB** is a finger a bit particular in the wiring compared to the index and the middle because - as it is the finger with the most degrees of freedom- it needs to pass a series of pulleys at the base of it in order to add also the thumb oppose joint movement inside the articulation.
 
-<img src="../img/HAND_WRIST_V2/TH_SHEATHS.png" width=75%>
+<img src ="../img/HAND_WRIST_V2/TH_SHEATHS.png" width=75%>
 
 The IITCODE 2375 as specification described below :
 
@@ -149,7 +149,7 @@ Please follow this [link](lower_arm_V2.md#3-proximal-joints) for an extended HOW
 
 Once the 3 proximal joints are cabled, the lateral view of the forearm should look like the picture below. The 6 sheaths are pointed by the red arrows.
 
-<img src="../img/lowerArm/L-4RM-sheats-prox.png">
+<img src ="../img/lowerArm/L-4RM-sheats-prox.png">
 
 ### 		2.2	Distal joints
 
@@ -204,7 +204,7 @@ Please follow this [link](lower_arm_V2.md#2-distal-joints) for an extended HOWTO
 
 | Left Hand                                                    | Right Hand                                                   |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="../img/HAND_WRIST_V2/Opposite_palm-view.png" width="700"> | <img src="../img/HAND_WRIST_V2/R_Th-opp-d-view.png" width="700"> |
+| <img src ="../img/HAND_WRIST_V2/Opposite_palm-view.png" width="700"> | <img src ="../img/HAND_WRIST_V2/R_Th-opp-d-view.png" width="700"> |
 
 Please follow this [link](wrist_hand_cabling_V2.md#22-thumb-oppose) for an extended HOWTO route the cable.
 
@@ -234,7 +234,7 @@ Remember that the **shorter** sheat is S0 and the **longer** one is S2.
 
 | Left Hand   | Right Hand     |
 | ----------- | -------------- |
-| <img src="../img/HAND_WRIST_V2/L_hand_f_abd_new.png" width=700> | <img src="../img/HAND_WRIST_V2/R_hand_f_abd_new.png" width=700> |
+| <img src ="../img/HAND_WRIST_V2/L_hand_f_abd_new.png" width=700> | <img src ="../img/HAND_WRIST_V2/R_hand_f_abd_new.png" width=700> |
 
 Please follow this [link](wrist_hand_cabling_V2.md#23-fingers-abduction) for an extended HOWTO route the cable.
 
@@ -247,7 +247,7 @@ Please follow this [link](wrist_hand_cabling_V2.md#23-fingers-abduction) for an 
 Here is the list of the 10 tendons needed to build the wrist movements:
 
 <center>
-<img src='../img/HAND_WRIST_V2/ICUB_Tendon_Left_Right.png'>
+<img src ='../img/HAND_WRIST_V2/ICUB_Tendon_Left_Right.png'>
 
 </center>
 
@@ -287,9 +287,9 @@ From the pictures below you will be able to locate and identify the 8 tendons in
 
 <center>
 
-<img src='../img/HAND_WRIST_V2/R_4RM_A.png' width =auto>
+<img src ='../img/HAND_WRIST_V2/R_4RM_A.png' width =auto>
 
-<img src='../img/HAND_WRIST_V2/R_4RM_B.png' width =700>
+<img src ='../img/HAND_WRIST_V2/R_4RM_B.png' width =700>
 
 </center>
 
@@ -301,9 +301,9 @@ From the pictures below you will be able to locate and identify the 8 tendons in
 
 <center>
 
-<img src='../img/HAND_WRIST_V2/L_4RM_A.png' width =600>
+<img src ='../img/HAND_WRIST_V2/L_4RM_A.png' width =600>
 
-<img src='../img/HAND_WRIST_V2/L_4RM_B.png' width =650>
+<img src ='../img/HAND_WRIST_V2/L_4RM_B.png' width =650>
 
 </center>
 
@@ -336,7 +336,7 @@ From the pictures below you will be able to locate and identify the 2 tendons in
 
 | RIGHT WRIST   | LEFT WRIST         |
 | ------------- | -------------- |
-| <img src='../img/HAND_WRIST_V2/R_wrist_label.png' > | <img src='../img/HAND_WRIST_V2/L_wrist_label.png' > |
+| <img src ='../img/HAND_WRIST_V2/R_wrist_label.png' > | <img src ='../img/HAND_WRIST_V2/L_wrist_label.png' > |
 
 To get more details on how to rewire them, please follow this [link](wrist_hand_cabling_V2.md#13-wrist-passive-tendons).
 

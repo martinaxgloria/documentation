@@ -7,7 +7,7 @@ As already detailed in the [`calibration-type-10-procedure`](./standard_calibrat
 
 Complete pipeline for the `calibration type 10` using `AMO encoder` at the joint and `quadrature encoder` at the motor.
 <p align="center">
-    <img  src="../img/calibration-amo-abs-enc.png" width="700">
+    <img  src ="../img/calibration-amo-abs-enc.png" width="700">
 </p>
 
 As you can see in the above-reported state machine, after the calibration command is received by the EMS, a timer of 30 seconds gets triggered; afterward, we wait until the motor encoder calibration ends; finally, the procedure of the calibration type 10 commences.

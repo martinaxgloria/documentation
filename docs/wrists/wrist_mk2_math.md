@@ -1,7 +1,7 @@
 # Wrist Mk2: the Mathematics of the spherical joint
 
 <p align="center">
-  <img  src=    "../img/wrist_mk2.png"
+  <img  src =    "../img/wrist_mk2.png"
         title=  "wrist_mk2.png"
         width=  "750">
 </p>

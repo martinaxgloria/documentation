@@ -5,9 +5,9 @@
 Below, a sketch of the finger kinematics is reported:
 
 <p align="center">
-  <img  src=    "../img/finger-scheme-1_mod.png"
+  <img  src =    "../img/finger-scheme-1_mod.png"
         width=  "">
-  <img  src=    "../img/finger-scheme-2_mod.png"
+  <img  src =    "../img/finger-scheme-2_mod.png"
         width=  "600">
 </p>
 <p align="center">
@@ -76,7 +76,7 @@ $$q_{1} = \tan^{- 1}\left( \frac{A_{y}(q_{0}) - P_{0y}}{A_{x}(q_{0}) - P_{0x}} \
 Let us move on to explore the relation between the motor pulling the tendon and $q_0$. Both the tendon ends are clamped to bushings that describe circular arcs; one bushing is centered in $D$ and its trajectory is an arc centered in $C$ whereas the other is centered in $F$ and its trajectory is an arc centered in $E$.
 
 <p align="center">
-  <img  src=    "../img/finger-motor-pulley.png"
+  <img  src =    "../img/finger-motor-pulley.png"
         width=  "400">
 </p>
 
@@ -137,7 +137,7 @@ The following table describes the coupling variables of the finger mechanisms in
 > **Note 3:** Although the pinky is mechanically identical to the thumb, its rest value depends on the ring which is mechanically coupled to.
 
 <p align="center">
-  <img  src=    "../img/mk5_2-zero.png"
+  <img  src =    "../img/mk5_2-zero.png"
         width=  "600">
 </p>
 
@@ -146,7 +146,7 @@ The following table describes the coupling variables of the finger mechanisms in
 </p>
 
 <p align="center">
-  <img  src=    "../img/mk5_2-true-rest.png"
+  <img  src =    "../img/mk5_2-true-rest.png"
         width=  "600">
 </p>
 
@@ -155,7 +155,7 @@ The following table describes the coupling variables of the finger mechanisms in
 </p>
 
 <p align="center">
-  <img  src=    "../img/mk5_2-q2bias.png"
+  <img  src =    "../img/mk5_2-q2bias.png"
         width=  "500">
 </p>
 

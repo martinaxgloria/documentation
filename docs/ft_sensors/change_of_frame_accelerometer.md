@@ -4,7 +4,7 @@
 
 | | |
 |:---:|:---|
-| [<img src="https://github.com/traversaro.png" width="40">](https://github.com/traversaro) | [@traversaro](https://github.com/traversaro) |
+| [<img src ="https://github.com/traversaro.png" width="40">](https://github.com/traversaro) | [@traversaro](https://github.com/traversaro) |
 
 Unless noted, notation follows what is described in ["A Multibody Dynamics Notation – Revision_2"](https://pure.tue.nl/ws/portalfiles/portal/139293126/A_Multibody_Dynamics_Notation_Revision_2_.pdf) 📚
 
